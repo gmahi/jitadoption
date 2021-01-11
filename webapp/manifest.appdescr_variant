@@ -1,0 +1,35 @@
+{
+  "fileName": "manifest",
+  "layer": "CUSTOMER_BASE",
+  "fileType": "appdescr_variant",
+  "reference": "icd.discreteindustries.managecontrolcycles",
+  "id": "customer.jitcontrolcycles1",
+  "namespace": "apps/icd.discreteindustries.managecontrolcycles/appVariants/customer.jitcontrolcycles1/",
+  "content": [
+    {
+      "changeType": "appdescr_app_setTitle",
+      "content": {},
+      "texts": {
+        "i18n": "i18n/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ListReport|C_JITControlCycleTP"
+      },
+      "texts": {
+        "i18n": "i18n/ListReport/C_JITControlCycleTP/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_JITControlCycleTP"
+      },
+      "texts": {
+        "i18n": "i18n/ObjectPage/C_JITControlCycleTP/i18n.properties"
+      }
+    }
+  ]
+}

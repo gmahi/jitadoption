@@ -1,0 +1,19 @@
+{
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "install",
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            }
+        },
+        {
+            "type": "npm",
+            "script": "build",
+            "problemMatcher": [
+                "$lessCompile"
+            ]
+        }
+    ]
+}

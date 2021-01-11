@@ -1,0 +1,38 @@
+{
+	"fileName": "id_1608112886870_129_codeExt",
+	"fileType": "change",
+	"changeType": "codeExt",
+	"moduleName": "",
+	"reference": "customer.jitcontrolcycles1",
+	"packageName": "$TMP",
+	"content": {
+		"codeRef": "coding/CustomAllBtn.js"
+	},
+	"selector": {
+		"controllerName": "sap.suite.ui.generic.template.ListReport.view.ListReport"
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/icd.discreteindustries.managecontrolcycles/changes/",
+	"projectId": "customer.jitcontrolcycles1",
+	"creation": "2020-12-16T10:01:26.873Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.78.0",
+		"sourceChangeFileName": "",
+		"compositeCommand": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "7.0.7",
+		"from": "7.0.7",
+		"to": "7.0.7"
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

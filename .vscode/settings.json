@@ -1,0 +1,25 @@
+{
+  "ports.excludeExposeNotification": {
+    "ports": [
+      6005
+    ]
+  },
+  "Adaptation Project.componentname": "icd.discreteindustries.managecontrolcycles",
+  "Adaptation Project.safeMode": false,
+  "Adaptation Project.appvariant": "jitcontrolcycles1",
+  "Adaptation Project.layer": "CUSTOMER_BASE",
+  "Adaptation Project.sourceSystem": "abapBackendGFG",
+  "Adaptation Project.isOVPApp": false,
+  "Adaptation Project.isFioriElement": true,
+  "Adaptation Project.destinations": [
+    {
+      "name": "abapBackendGFG",
+      "url": "http://fioriclint:443",
+      "proxyType": "OnPremise"
+    },
+    {
+      "name": "sapui5",
+      "url": "http://sapui5.hana.ondemand.com/1.78.0"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+	"fileName": "id_1608112759906_128_moveControls",
+	"fileType": "change",
+	"changeType": "moveControls",
+	"moduleName": "",
+	"reference": "customer.jitcontrolcycles1",
+	"packageName": "$TMP",
+	"content": {
+		"movedElements": [{
+			"selector": {
+				"id": "icd.discreteindustries.managecontrolcycles::sap.suite.ui.generic.template.ListReport.view.ListReport::C_JITControlCycleTP--customer.jitcontrolcycles1.getallcyclesbtn",
+				"idIsLocal": false
+			},
+			"sourceIndex": 7,
+			"targetIndex": 5
+		}],
+		"source": {
+			"selector": {
+				"aggregation": "content",
+				"type": "sap.m.OverflowToolbar",
+				"id": "icd.discreteindustries.managecontrolcycles::sap.suite.ui.generic.template.ListReport.view.ListReport::C_JITControlCycleTP--template::ListReport::TableToolbar",
+				"idIsLocal": false
+			}
+		},
+		"target": {
+			"selector": {
+				"aggregation": "content",
+				"type": "sap.m.OverflowToolbar",
+				"id": "icd.discreteindustries.managecontrolcycles::sap.suite.ui.generic.template.ListReport.view.ListReport::C_JITControlCycleTP--template::ListReport::TableToolbar",
+				"idIsLocal": false
+			}
+		}
+	},
+	"selector": {
+		"id": "icd.discreteindustries.managecontrolcycles::sap.suite.ui.generic.template.ListReport.view.ListReport::C_JITControlCycleTP--template::ListReport::TableToolbar",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/icd.discreteindustries.managecontrolcycles/changes/",
+	"projectId": "customer.jitcontrolcycles1",
+	"creation": "2020-12-16T09:59:20.535Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.78.0",
+		"sourceChangeFileName": "",
+		"compositeCommand": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {
+		"source": {
+			"id": "icd.discreteindustries.managecontrolcycles::sap.suite.ui.generic.template.ListReport.view.ListReport::C_JITControlCycleTP--template::ListReport::TableToolbar",
+			"idIsLocal": false
+		},
+		"target": {
+			"id": "icd.discreteindustries.managecontrolcycles::sap.suite.ui.generic.template.ListReport.view.ListReport::C_JITControlCycleTP--template::ListReport::TableToolbar",
+			"idIsLocal": false
+		},
+		"movedElements": [{
+			"id": "icd.discreteindustries.managecontrolcycles::sap.suite.ui.generic.template.ListReport.view.ListReport::C_JITControlCycleTP--customer.jitcontrolcycles1.getallcyclesbtn",
+			"idIsLocal": false
+		}]
+	},
+	"validAppVersions": {
+		"creation": "7.0.7",
+		"from": "7.0.7",
+		"to": "7.0.7"
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
